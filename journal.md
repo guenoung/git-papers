@@ -1,1 +1,5 @@
-# Wow ! So cool, this is my journal !
+# This is my really cool journal !
+by Ziad Guenoun
+
+#This is an introduction
+Introducao, introduction, introduccion.
