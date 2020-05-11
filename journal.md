@@ -6,3 +6,6 @@ Introducao, introduction, introduccion.
 
 #Results
 Wow ! I have results, so exciting !
+
+#Figures
+Graphs ! Charts !
